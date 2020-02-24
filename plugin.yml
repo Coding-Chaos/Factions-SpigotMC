@@ -1,0 +1,9 @@
+main: net.vultvr3.factions.Main
+name: Factions
+api-version: 1.13
+version: 1.0
+author: VULTVR3
+description: Unique Factions Plugin Specifically for ChimericalMC
+commands:
+   f:
+      description: Main factions command! 
